@@ -1,0 +1,2 @@
+C:\TeenCoder\Game Programming\Activity Starters\Maze\Maze\Content\obj\x86\Debug\MazeContent.contentprojResolveAssemblyReference.cache
+D:\Users\nye\Documents\GitHub\To Add\Maze\Maze\Content\obj\x86\Debug\MazeContent.contentprojResolveAssemblyReference.cache

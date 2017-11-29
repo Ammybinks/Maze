@@ -1,0 +1,14 @@
+C:\TeenCoder\Game Programming\Activity Starters\Maze\Maze\bin\x86\Debug\Content\pixel.xnb
+C:\TeenCoder\Game Programming\Activity Starters\Maze\Maze\bin\x86\Debug\Maze.exe
+C:\TeenCoder\Game Programming\Activity Starters\Maze\Maze\bin\x86\Debug\Maze.pdb
+C:\TeenCoder\Game Programming\Activity Starters\Maze\Maze\obj\x86\Debug\Maze.csprojResolveAssemblyReference.cache
+C:\TeenCoder\Game Programming\Activity Starters\Maze\Maze\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\TeenCoder\Game Programming\Activity Starters\Maze\Maze\obj\x86\Debug\Maze.exe
+C:\TeenCoder\Game Programming\Activity Starters\Maze\Maze\obj\x86\Debug\Maze.pdb
+D:\Users\nye\Documents\GitHub\To Add\Maze\Maze\bin\x86\Debug\Content\pixel.xnb
+D:\Users\nye\Documents\GitHub\To Add\Maze\Maze\bin\x86\Debug\Maze.exe
+D:\Users\nye\Documents\GitHub\To Add\Maze\Maze\bin\x86\Debug\Maze.pdb
+D:\Users\nye\Documents\GitHub\To Add\Maze\Maze\obj\x86\Debug\Maze.csprojResolveAssemblyReference.cache
+D:\Users\nye\Documents\GitHub\To Add\Maze\Maze\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Users\nye\Documents\GitHub\To Add\Maze\Maze\obj\x86\Debug\Maze.exe
+D:\Users\nye\Documents\GitHub\To Add\Maze\Maze\obj\x86\Debug\Maze.pdb
